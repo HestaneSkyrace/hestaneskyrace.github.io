@@ -1,0 +1,116 @@
+---
+title: "Løypa"
+pagetitle: "Løypa — Hestane Skyrace 2026"
+---
+
+::: {.sectionbanner style="background-image:url('images/banner_loype.jpg');"}
+# Løypa
+:::
+
+Løypa startar ved **Langeland skisenter** og følgjer den gamle Trondhjemske postveg mot Bringeland lufthamn, vidare gjennom Djupedalen til Hjelmelandsstølen og Yndestadsstølen.
+
+```{=html}
+<div class="routes">
+  <div class="route">
+    <div class="route__body">
+      <h3>Storerunda</h3>
+      <div class="route__stats">
+        <div><b>32 km</b><small>distanse</small></div>
+        <div><b>~1800 m</b><small>stigning</small></div>
+      </div>
+      <p>Går over <b>både</b> Storehesten og Lisjehesten. Det fulle eventyret.</p>
+    </div>
+  </div>
+  <div class="route">
+    <div class="route__body">
+      <h3>Lisjerunda</h3>
+      <div class="route__stats">
+        <div><b>26 km</b><small>distanse</small></div>
+        <div><b>~1200 m</b><small>stigning</small></div>
+      </div>
+      <p>Går <b>kun</b> over Lisjehesten. Vender ned mot Kvamsstølen ved Skaraly.</p>
+    </div>
+  </div>
+</div>
+```
+
+## Trasé i hovudtrekk
+
+1. Start ved Langeland skisenter — inn på den gamle postvegen mot Bringeland.
+2. Gjennom Djupedalen til Hjelmelandsstølen og Yndestadsstølen.
+3. Bratt motbakke opp mot Lisjehesten — du klyv opp skaret ved hjelp av **tau**.
+4. Over ryggen mot Skaraly. *(Lisjerunda vender her ned mot Kvamsstølen.)*
+5. Frå Skaraly: den mest krevjande stigninga opp egga på austsida av **Storehesten**. Luftig — hald deg i berget enkelte stader.
+6. På toppen: panoramautsikt med havet i vest og Jostedalsbreen i aust.
+7. Nedstigning i ura på vestsida, vidare langs T-merka sti tilbake til Skaraly og mot stølane.
+8. Siste etappe i skiløypa gjennom myr og traktorvegterreng, før postvegen tek deg inn til målområdet på Langeland.
+
+## Slik ser løypa ut
+
+Følg løypa steg for steg — frå start på Langeland, opp over begge toppane og tilbake.
+
+```{=html}
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_00_rulleski.jpg" alt="Rulleskiløypa med Storehesten og Lisjehesten">
+  <figcaption class="loype-caption"><span class="loype-step">1</span> Frå rulleskiløypa ved Langeland — Storehesten og Lisjehesten ruvar i bakgrunnen.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_01_postveg.jpg" alt="Postvegen mot Bringeland">
+  <figcaption class="loype-caption"><span class="loype-step">2</span> På veg mot flyplassen, med Lisjehesten og Storehesten i bakgrunnen.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_02_hjelmeland_yndestad.jpg" alt="Mellom Hjelmelandsstølen og Yndestadsstølen">
+  <figcaption class="loype-caption"><span class="loype-step">3</span> På veg mellom Hjelmelandsstølen og Yndestadsstølen.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_03_yndestadstolen.jpg" alt="Yndestadsstølen">
+  <figcaption class="loype-caption"><span class="loype-step">4</span> På Yndestadsstølen.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_04_tau_lisjehesten.jpg" alt="Tau-passasje opp til Lisjehesten">
+  <figcaption class="loype-caption"><span class="loype-step">5</span> Tau-passasjen opp til Lisjehesten — eit krevjande parti.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_05_ned_fra_lisjehesten.jpg" alt="På veg ned frå Lisjehesten">
+  <figcaption class="loype-caption"><span class="loype-step">6</span> På veg ned frå toppen av Lisjehesten.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_06_egga_storehesten.jpg" alt="Egga opp til Storehesten">
+  <figcaption class="loype-caption"><span class="loype-step">7</span> Den krevjande, bratte Egga opp til Storehesten.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_07_topp_panorama.jpg" alt="Panorama frå toppen av Storehesten">
+  <figcaption class="loype-caption"><span class="loype-step">8</span> Panoramautsikt frå toppen av Storehesten.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_08_ura_storehesten.jpg" alt="Ura og nedstigning frå Storehesten">
+  <figcaption class="loype-caption"><span class="loype-step">9</span> Ura og nedstigninga frå Storehesten.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_09_baksida_skaraly.jpg" alt="Ned mot baksida av Storehesten og Skaraly">
+  <figcaption class="loype-caption"><span class="loype-step">10</span> Ned mot baksida av Storehesten og tilbake til Skaraly.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_10_ned_kvamsstolen.jpg" alt="Ned mot Kvamsstølen">
+  <figcaption class="loype-caption"><span class="loype-step">11</span> Ned mot Kvamsstølen.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_11_tilbake_yndestad.jpg" alt="Mellom Kvamsstølen og Yndestadsstølen">
+  <figcaption class="loype-caption"><span class="loype-step">12</span> Mellom Kvamsstølen og Yndestadsstølen — på veg tilbake.</figcaption>
+</figure>
+```
+
+## Kart og GPX
+
+GPX-filer for begge rundene ligg på [løpssida hos Racedays](https://www.racedays.run/event/hestane-skyrace-2026). Last ned og legg inn på klokka di på førehand.

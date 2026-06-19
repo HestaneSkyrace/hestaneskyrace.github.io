@@ -1,0 +1,79 @@
+---
+title: "Praktisk"
+pagetitle: "Praktisk informasjon — Hestane Skyrace 2026"
+---
+
+::: {.sectionbanner style="background-image:url('images/banner_praktisk.jpg');"}
+# Praktisk
+:::
+
+::: guidebadge
+Del av deltakarguiden
+:::
+
+## Komme seg dit
+
+Start- og målområdet er **Langeland skisenter** i Bygstad.
+
+- 🚗 Frå Førde sentrum: ca. **12 minutt** med bil.
+- ✈️ Frå Førde lufthamn (Bringeland): ca. **9 minutt** med bil.
+
+## Parkering
+
+Parkering ved Langeland skisenter. **Dagsparkering kr 90.** Vi oppmodar sterkt til samkøyring — plassen er begrensa.
+
+## Overnatting
+
+Førde sentrum har fleire hotell og overnattingsmoglegheiter, berre 12 minutt unna. Bestill i god tid — juli er høgsesong i regionen.
+
+## Mat og afterrun
+
+- Varmmat og grillmat i målområdet kl. **12:30–17:00**.
+- Afterrun på **Tønna i Bygstad** frå kl. **20:00** — mat, sosialt samvær og moro for alle.
+
+## Påmelding
+
+Påmelding skjer via [Racedays](https://www.racedays.run/event/hestane-skyrace-2026). Aldersgrense 16 år. Det er òg mogleg å melde på ein venn eller drive vidaresal av billett via løpssida.
+
+## Kontakt
+
+Lagre nummera på telefonen før du startar:
+
+- **Lars Øvrebø** — 948 27 438
+- **Torstein Bolstad Blikra** — 416 53 315
+
+Følg oss på [Instagram \@hestaneskyrace](https://instagram.com/hestaneskyrace) for siste oppdateringar.
+
+::: {.callout-tip title="Vil du ha guiden på papir?"}
+Heile denne nettsida er deltakarguiden. Treng du ein utskriftsvenleg PDF/Word-versjon til oppslag eller utdeling, kan arrangøren sende han på e-post. Trykk gjerne `Ctrl/Cmd + P` i nettlesaren for å skrive ut sida du står på.
+:::
+
+```{=html}
+<div class="sponsorband">
+  <h2 class="sponsorband__title">Våre sponsorar</h2>
+
+  <div class="sponsorband__main">
+    <a href="#" class="sponsor-card sponsor-card--main">
+      <img src="images/sponsorar/fjordane_caravan.png" alt="Fjordane Caravan">
+    </a>
+    <a href="#" class="sponsor-card sponsor-card--main">
+      <img src="images/sponsorar/lettsauna.png" alt="LettSauna">
+    </a>
+    <a href="#" class="sponsor-card sponsor-card--main">
+      <img src="images/sponsorar/sparebank1.png" alt="SpareBank 1 Sogn og Fjordane">
+    </a>
+  </div>
+
+  <div class="sponsorband__rest">
+    <a href="#" class="sponsor-card">
+      <img src="images/sponsorar/tonna.png" alt="Tønna">
+    </a>
+    <a href="#" class="sponsor-card">
+      <img src="images/sponsorar/blikra_advokat.png" alt="Blikra, Slotterøy og Fonn Advokatfirma">
+    </a>
+    <a href="#" class="sponsor-card">
+      <img src="images/sponsorar/stranda_vent.png" alt="Stranda Ventilasjon">
+    </a>
+  </div>
+</div>
+```

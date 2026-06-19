@@ -1,0 +1,102 @@
+---
+pagetitle: "Hestane Skyrace 2026 — deltakarguide"
+toc: false
+---
+
+```{=html}
+<div class="hero" style="background-image:url('images/cover_banner.jpg');">
+  <div class="hero__inner">
+    <img src="images/logo_rund.png" class="hero__logo" alt="Hestane Skyrace logo">
+    <div class="hero__kicker">11. juli 2026 · Sunnfjord</div>
+    <h1 class="hero__title">Hestane Skyrace <span class="year">2026</span></h1>
+    <div class="hero__sub">På tur over det devonske fjellbeltet</div>
+    <div class="hero__meta">
+      <span>🏔️ Storehesten &amp; Lisjehesten</span>
+      <span>📍 Langeland skisenter, Bygstad</span>
+      <span>🏃 26 &amp; 32 km</span>
+    </div>
+    <a href="https://www.racedays.run/event/hestane-skyrace-2026/register" class="hero__cta">Meld deg på</a>
+  </div>
+</div>
+```
+
+Velkomen til aller første utgåva av **Hestane Skyrace** — ei unik fjelloppleving i hjartet av Sunnfjord. Her får du springe over dei spektakulære toppane Storehesten og Lisjehesten i Bygstad. Vi lagar i stand ein løpsfest og ein aktiv dag for heile familien, med løp for alle som vil bli med.
+
+::: {.callout-tip appearance="simple"}
+**Denne nettsida er deltakarguiden din.** Her finn du alt du treng å vite før, under og etter løpet. Bruk menyen øvst, eller hopp rett til [løypa](loype.qmd), [programmet](program.qmd), [utstyr & reglar](utstyr.qmd) eller [praktisk info](praktisk.qmd).
+:::
+
+```{=html}
+<div class="factgrid">
+  <div class="factcard"><div class="num">32</div><span class="lbl">km Storerunda</span></div>
+  <div class="factcard"><div class="num">~1800</div><span class="lbl">høgdemeter</span></div>
+  <div class="factcard"><div class="num">26</div><span class="lbl">km Lisjerunda</span></div>
+  <div class="factcard"><div class="num">09:00</div><span class="lbl">start</span></div>
+</div>
+```
+
+## To rundar — vel din
+
+```{=html}
+<div class="routes">
+  <div class="route">
+    <img src="images/storerunda_kort.png" alt="Storerunda">
+    <div class="route__body">
+      <h3>Storerunda</h3>
+      <div class="route__stats">
+        <div><b>32 km</b><small>distanse</small></div>
+        <div><b>~1800 m</b><small>stigning</small></div>
+      </div>
+      <p>Over begge toppane — Storehesten og Lisjehesten. Det fulle skyrace-eventyret med teknisk klatring, eksponert egg og storslått panorama. <a href="loype.html">Sjå løypa →</a></p>
+    </div>
+  </div>
+  <div class="route">
+    <img src="images/lisjerunda_kort.png" alt="Lisjerunda">
+    <div class="route__body">
+      <h3>Lisjerunda</h3>
+      <div class="route__stats">
+        <div><b>26 km</b><small>distanse</small></div>
+        <div><b>~1200 m</b><small>stigning</small></div>
+      </div>
+      <p>Kun over Lisjehesten. Eit godt val for deg som ønskjer ei kortare, men framleis krevjande, fjellrunde i mektig natur. <a href="loype.html">Sjå løypa →</a></p>
+    </div>
+  </div>
+</div>
+```
+
+![](images/silhuett.png){.silhouette-divider}
+
+## I korte trekk
+
+::: tldr
+### Det viktigaste på éin plass
+
+- 📆 **Laurdag 11. juli 2026**, start kl. 09:00 frå Langeland skisenter
+- 🏔️ **Storerunda 32 km** (~1800 hm) eller **Lisjerunda 26 km** (~1200 hm)
+- 🎒 Hugs **obligatorisk utstyr** — mobil, 1 L drikke, nødrasjon, vindjakke ([sjå lista](utstyr.qmd))
+- ⚠️ **Cutoff Skaraly kl. 15:00**, siste målgang kl. 19:00
+- 🅿️ Parkering på Langeland — kr 90 for dagen
+- 🍖 Mat i mål 12:30–17:00, **afterrun på Tønna kl. 20:00**
+- 📞 Arrangør: Lars **948 27 438** / Torstein **416 53 315**
+:::
+
+## Kvifor delta?
+
+- 💪 **Ei meistringsoppleving for alle** — både for dei som vil fullføre og dei som vil konkurrere.
+- 🌄 **Spektakulær natur** over det devonske fjellbeltet, no også med UNESCO-status.
+- 👨‍👩‍👧‍👦 **Aktivitetar for heile familien** — barne- og ungdomsløp, mat og afterrun.
+
+```{=html}
+<figure class="solo-fig">
+  <img src="images/arrangorane.jpg" alt="Arrangørane Lars og Torstein på fjelltur">
+  <figcaption>Arrangørane Lars og Torstein.</figcaption>
+</figure>
+```
+
+## Om arrangørane
+
+Vi som arrangerer er to lokale sunnfjordingar frå Bygstad — **Lars Øvrebø** og **Torstein Bolstad Blikra**. Vi har vakse opp med fjella og skiløypene i bygda, og ønskjer no å gi fleire høve til å oppleve gleda ved å springe i Sunnfjords mektige natur. Saman med oss har vi idrettslaget **Gaular IL** i ryggen.
+
+::: {.callout-note title="Klar for start?"}
+Påmelding skjer via [Racedays](https://www.racedays.run/event/hestane-skyrace-2026). Følg oss på [Instagram \@hestaneskyrace](https://instagram.com/hestaneskyrace) for siste oppdateringar om løypetrasé og praktiske detaljar.
+:::

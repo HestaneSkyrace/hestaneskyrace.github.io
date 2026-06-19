@@ -1,0 +1,94 @@
+---
+title: "Utstyr & reglar"
+pagetitle: "Utstyr og reglar — Hestane Skyrace 2026"
+---
+
+::: {.sectionbanner style="background-image:url('images/vaer_dramatisk.png');"}
+# Utstyr & reglar
+:::
+
+::: guidebadge
+Del av deltakarguiden
+:::
+
+::: {.callout-important title="Utstyrskontroll"}
+Det blir gjennomført **stikkprøver** av utstyrskontroll ved start og mål. Manglar du obligatorisk utstyr, får du ikkje starte — og kan bli diskvalifisert undervegs.
+:::
+
+## Obligatorisk utstyr
+
+| Utstyr | Krav |
+|--------|------|
+| **Fulladd mobiltelefon** | Nødnummer og arrangørkontakt lagra. Telefonen skal vere på heile løpet. |
+| **Drikke** | Minimum 1 liter |
+| **Nødrasjonar** | Minimum 200 kcal (gel, bar, nøtter e.l.) — kun til nødssituasjonar |
+| **Vindtett jakke med hette** | Skal vere i sekken om ho ikkje er i bruk |
+
+: {.striped tbl-colwidths="[34,66]"}
+
+::: {.callout-warning title="Ved kaldt og surt vêr"}
+Då blir desse i tillegg **obligatoriske**: varmt lag, lue/buff og hanskar. Endeleg melding kjem på deltakarmail i dagane før løpet.
+:::
+
+## Tilrådd utstyr
+
+Ikkje obligatorisk, men sterkt anbefalt:
+
+- Tørr overdel (fleece eller ull) til etter målgang
+- Lue og hanskar
+- Solkrem og solbriller
+- Stavar (lov, men ikkje obligatorisk)
+- Plaster/tape og ein liten førstehjelpspose
+
+## Reglar
+
+- **Aldersgrense:** minimum 16 år på løpsdagen.
+- **Cutoff:** deltakarar som ikkje har passert Skaraly innan kl. 15:00 må gå ned til Stølshaugane og blir transportert tilbake til Langeland. Siste frist for målgang er kl. 19:00.
+- **Løypa:** skal følgjast. Avvik frå merka rute medfører diskvalifikasjon.
+- **Startnummer:** skal vere synleg gjennom heile løpet.
+- **Hjelp til medløparar:** treng ein medløpar hjelp, pliktar du å stoppe og varsle arrangør.
+- **Naturen:** ta med søppelet heim. Vis omsyn til beitedyr og anna ferdsel i fjellet.
+
+## Sikkerheit i fjellet
+
+Hestane Skyrace går i bratt og eksponert høgfjellsterreng. Du har sjølv ansvar for eigen sikkerheit og må vurdere undervegs om du er i stand til å halde fram.
+
+::: {.callout-note title="Treng du eller ein medløpar hjelp?"}
+1. Ring **113** ved alvorleg skade eller livstruande situasjon.
+2. Ring deretter arrangør: **Lars 948 27 438** / **Torstein 416 53 315**.
+3. Bli verande på staden om mogleg, hald deg varm, bruk vindjakka. Varsla næraste post.
+:::
+
+Vêret i fjellet skiftar raskt. Sjølv om det er sol ved start, kan det vere kaldt, vått og vindfullt på toppane. Sjekk vêrmeldinga kvelden før og bruk lagvis påkledning.
+
+![Vêret kan skifte fort i høgfjellet](images/vaer_dramatisk.png){.rounded fig-align="center"}
+
+```{=html}
+<div class="sponsorband">
+  <h2 class="sponsorband__title">Våre sponsorar</h2>
+
+  <div class="sponsorband__main">
+    <a href="#" class="sponsor-card sponsor-card--main">
+      <img src="images/sponsorar/fjordane_caravan.png" alt="Fjordane Caravan">
+    </a>
+    <a href="#" class="sponsor-card sponsor-card--main">
+      <img src="images/sponsorar/lettsauna.png" alt="LettSauna">
+    </a>
+    <a href="#" class="sponsor-card sponsor-card--main">
+      <img src="images/sponsorar/sparebank1.png" alt="SpareBank 1 Sogn og Fjordane">
+    </a>
+  </div>
+
+  <div class="sponsorband__rest">
+    <a href="#" class="sponsor-card">
+      <img src="images/sponsorar/tonna.png" alt="Tønna">
+    </a>
+    <a href="#" class="sponsor-card">
+      <img src="images/sponsorar/blikra_advokat.png" alt="Blikra, Slotterøy og Fonn Advokatfirma">
+    </a>
+    <a href="#" class="sponsor-card">
+      <img src="images/sponsorar/stranda_vent.png" alt="Stranda Ventilasjon">
+    </a>
+  </div>
+</div>
+```

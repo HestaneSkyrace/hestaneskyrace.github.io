@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - images/
+
+website:
+  title: "Hestane Skyrace"
+  description: "Deltakarguide og info for Hestane Skyrace 2026 — fjelløp over Storehesten og Lisjehesten i Bygstad, Sunnfjord. 11. juli 2026."
+  site-url: "https://hestaneskyrace.github.io"
+  favicon: images/favicon.png
+  open-graph:
+    image: images/cover_banner.jpg
+    description: "Fjelløp over Storehesten og Lisjehesten i Bygstad, Sunnfjord. 11. juli 2026."
+  twitter-card:
+    image: images/cover_banner.jpg
+  navbar:
+    background: dark
+    logo: images/logo_rund.png
+    title: "Hestane Skyrace"
+    left:
+      - href: index.qmd
+        text: Heim
+      - href: loype.qmd
+        text: Løypa
+      - href: program.qmd
+        text: Program
+      - href: utstyr.qmd
+        text: Utstyr & reglar
+      - href: praktisk.qmd
+        text: Praktisk
+    right:
+      - icon: instagram
+        href: https://instagram.com/hestaneskyrace
+        aria-label: Instagram
+  page-footer:
+    background: dark
+    left: "© 2026 Hestane Skyrace · Bygstad, Sunnfjord"
+    center: "Arrangert av Lars Øvrebø & Torstein Bolstad Blikra, med Gaular IL"
+    right:
+      - icon: instagram
+        href: https://instagram.com/hestaneskyrace
+        aria-label: Instagram
+
+format:
+  html:
+    theme:
+      - cosmo
+      - theme.scss
+    toc: true
+    toc-title: "På denne sida"
+    toc-depth: 2
+    smooth-scroll: true
+    page-layout: full
+    grid:
+      body-width: 1000px
+    code-tools: false
+    anchor-sections: true
+    link-external-newwindow: true
