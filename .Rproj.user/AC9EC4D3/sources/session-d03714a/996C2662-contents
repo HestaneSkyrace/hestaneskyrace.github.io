@@ -20,7 +20,7 @@ Start- og målområdet er **Langeland skisenter** i Bygstad.
 
 ## Parkering
 
-Parkering ved Langeland skisenter. **Dagsparkering kr 90.** Vi oppmodar sterkt til samkøyring — her er det god plass.
+Parkering ved Langeland skisenter. **Dagsparkering kr 50.** Vi oppmodar sterkt til samkøyring — her er det god plass.
 
 ## Overnatting
 
@@ -35,6 +35,21 @@ Det er fleire airbnb muligeter.
 ## Påmelding
 
 Påmelding til løpet skjer via [Racedays](https://www.racedays.run/event/hestane-skyrace-2026). Aldersgrense 16 år. Det er òg mogleg å melde på ein venn eller drive vidaresal av billett via løpssida.
+
+## Startnummer
+
+Startnummer kan hentast på to tidspunkt:
+
+- 🗓️ **Fredag 10. juli kl. 18:00–20:00** — Langeland skisenter
+- 🌅 **Laurdag 11. juli frå kl. 07:00** — Langeland skisenter (løpsdagen)
+
+## Fasilitetar på Langeland
+
+Bygga på Langeland skisenter er opne på løpsdagen. Du kan:
+
+- 👕 **Leggje inn målklede** i garderoben — nyttig å ha tørt skift klart når du kjem i mål.
+- 🚿 **Dusje** etter løpet på Langeland.
+- **Sauna:** Lettsauna stiller med varm velkomst på stadion, der du kan teste saunateltet deira.
 
 ## Kontakt
 
@@ -52,27 +67,32 @@ Følg oss på [Instagram \@hestaneskyrace](https://instagram.com/hestaneskyrace)
   <h2 class="sponsorband__title">Våre sponsorar</h2>
 
   <div class="sponsorband__main">
-    <a href="#" class="sponsor-card sponsor-card--main">
+    <a href="https://www.fjordanecaravan.no/" target="_blank" rel="noopener" class="sponsor-card sponsor-card--main">
       <img src="images/sponsorar/fjordane_caravan.png" alt="Fjordane Caravan">
     </a>
-    <a href="#" class="sponsor-card sponsor-card--main">
+    
+    <a href="https://www.lettsauna.no/" target="_blank" rel="noopener" class="sponsor-card sponsor-card--main">
       <img src="images/sponsorar/lettsauna.png" alt="LettSauna">
-    </a>
-    <a href="#" class="sponsor-card sponsor-card--main">
-      <img src="images/sponsorar/sparebank1.png" alt="SpareBank 1 Sogn og Fjordane">
     </a>
   </div>
 
   <div class="sponsorband__rest">
-    <a href="#" class="sponsor-card">
+    <a href="https://www.sparebank1.no/nn/sogn-fjordane/privat.html" target="_blank" rel="noopener" class="sponsor-card">
+      <img src="images/sponsorar/sparebank1.png" alt="SpareBank 1 Sogn og Fjordane">
+    </a>
+    <a href="#" target="_blank" rel="noopener" class="sponsor-card">
       <img src="images/sponsorar/tonna.png" alt="Tønna">
     </a>
-    <a href="#" class="sponsor-card">
+    <a href="https://www.fylkesadvokat.no/" target="_blank" rel="noopener" class="sponsor-card">
       <img src="images/sponsorar/blikra_advokat.png" alt="Blikra, Slotterøy og Fonn Advokatfirma">
     </a>
-    <a href="#" class="sponsor-card">
+    <a href="https://www.stravent.no/" target="_blank" rel="noopener" class="sponsor-card">
       <img src="images/sponsorar/stranda_vent.png" alt="Stranda Ventilasjon">
+    </a>
+    <a href="https://rkontor.no/" target="_blank" rel="noopener" class="sponsor-card">
+      <img src="images/sponsorar/fjordane_rekneskap.png" alt="Rekneskap Fjordane">
     </a>
   </div>
 </div>
 ```
+

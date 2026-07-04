@@ -1,0 +1,271 @@
+---
+title: "Løypa"
+pagetitle: "Løypa — Hestane Skyrace 2026"
+---
+
+
+::: {.sectionbanner style="background-image:url('images/banner_loype.jpg');"}
+# Løypa
+
+:::
+
+
+Løypa startar og går i mål ved **Langeland skisenter**.
+
+```{=html}
+<div class="routes">
+  <div class="route">
+    <div class="route__body">
+      <h3>Storerunda</h3>
+      <div class="route__stats">
+        <div><b>32 km</b><small>distanse</small></div>
+        <div><b>~1800 m</b><small>stigning</small></div>
+      </div>
+      <p>Går over <b>både</b> Storehesten og Lisjehesten. Det fulle eventyret.</p>
+    </div>
+  </div>
+  <div class="route">
+    <div class="route__body">
+      <h3>Lisjerunda</h3>
+      <div class="route__stats">
+        <div><b>26 km</b><small>distanse</small></div>
+        <div><b>~1200 m</b><small>stigning</small></div>
+      </div>
+      <p>Går <b>kun</b> over Lisjehesten. Vender ned mot Kvamsstølen ved Skaraly.</p>
+    </div>
+  </div>
+</div>
+```
+
+## Traséen i hovudtrekk
+
+1. Start ved Langeland skisenter — inn på den gamle postvegen mot flyplassen.
+2. Gjennom Djupedalen til Hjelmelandsstølen og Yndestadsstølen.
+3. Bratt motbakke opp mot Lisjehesten — her klyv ein opp skaret ved hjelp av **tau**. **Viktig** at her er det kun ein person i tauet om gongen så vis hensyn til kvarandre.  
+4. Langs ryggen mot Skaraly. 
+5. Frå Skaraly: *(Lisjerunda vender her tilbake og ned mot Kvamsstølen.)* den mest krevjande stigninga opp egga på austsida av **Storehesten**. Svært bratt stigning der ein ikkje må gå for langt mot venstre.
+6. På toppen: panoramautsikt med havet i vest og Jostedalsbreen i aust.
+7. Nedstigning i ura på vestsida, vidare langs T-merka sti tilbake til Skaraly og mot stølane.
+8. Siste etappe i skiløypa gjennom myr og traktorvegterreng, før ein returnerar til djupedalen og spring samme veg tilbake som starten.
+9. Målgang på oppløpet på stadion.
+
+
+
+
+## Drikkestasjonar og vassfylling
+
+Det er drikkestasjonar undervegs, men det er òg gode moglegheiter til å fylle på med naturleg vatn enkelte stader i løypa. Oversikta under viser kor du finn dei — bruk ho til å planlegge eige vassforbruk.
+
+| Distanse | Stad | Merknad |
+|---|---|---|
+| **~6 km** | Hjelmelandsstølen | Første drikkestasjon. Sjølv om du ikkje er tom, er det lurt å fylle opp her — det er lite naturleg vatn å fylle frå før Lisjehesten. |
+| **~11,5 km** | Lisjehesten | Naturleg vatn ved toppen. |
+| **~15 km** | Skaraly | Stasjon der det er venta at **alle bør fylle drikke**. Her vender Lisjerunda tilbake og ned mot Kvamsstølen, mens Storerunda fortset over Storehesten — ei lengre runde utan naturleg vatn før Grunnevatnet. |
+| **~20 km** *(kun Storerunda)* | Grunnevatnet | Naturleg vatn, like før du kjem tilbake til Skaraly. |
+| **~21 km** *(kun Storerunda)* | Skaraly | Ny påfyllsmoglegheit på veg tilbake. |
+| **~27 km** | Hjelmelandsstølen | Siste drikkestasjon før mål. |
+
+: {.striped tbl-colwidths="[15,25,60]"}
+
+
+
+
+## Kart og GPX
+
+GPX-filer for begge rundene ligg på [løpssida hos Racedays](https://www.racedays.run/event/hestane-skyrace-2026). Last ned og legg inn på klokka di på førehand.
+
+## Alternative løyper
+
+Vêr og tilhøve i fjellet kan gjere det nødvendig å leggje om løypa. Endeleg avgjerd blir sendt på e-post til alle påmelde **seinast kl. 07:00 på løpsdagen**. Dersom ingen e-post er sendt, går løpet som normalt (alternativ 1).
+
+Me tilrår at du lastar ned GPX-filene for alle alternativa på førehand og legg dei inn på klokka di, slik at du er klar uansett kva alternativ som blir valt.
+
+### Storerunda
+
+```{=html}
+<div class="alt-routes">
+
+  <div class="alt-route">
+    <div class="alt-route__header">
+      <span class="alt-route__badge">Alternativ 1</span>
+      <span class="alt-route__tag alt-route__tag--normal">Normal løype</span>
+    </div>
+    <div class="alt-route__stats">
+      <span>32 km</span><span>~1800 hm</span>
+    </div>
+    <p>Ordinær løype over Lisjehesten og Storehesten — opp Egga, ned ura på vestsida.</p>
+    <a href="gpx/Storerunda_alternativ_1.gpx" download class="alt-route__gpx">⬇ Last ned GPX — Storerunda alternativ 1</a>
+  </div>
+
+  <div class="alt-route">
+    <div class="alt-route__header">
+      <span class="alt-route__badge">Alternativ 2</span>
+      <span class="alt-route__tag alt-route__tag--weather">Dårleg vær — Egga</span>
+    </div>
+    <div class="alt-route__stats">
+      <span>34 km</span><span>~1820 hm</span>
+    </div>
+    <p>Vert brukt ved dårleg vær og glatt i Egga. Løypa går tur-retur Storehesten på stien ein normalt spring ned (vestsida). Merk: ved svært dårleg sikt kan løypevakt gi beskjed om at ein snur før toppen av Storehesten.</p>
+    <a href="gpx/Storerunda_alternativ_2.gpx" download class="alt-route__gpx">⬇ Last ned GPX — Storerunda alternativ 2</a>
+  </div>
+
+  <div class="alt-route">
+    <div class="alt-route__header">
+      <span class="alt-route__badge">Alternativ 3</span>
+      <span class="alt-route__tag alt-route__tag--water">Mykje vatn — utan skaret og Egga</span>
+    </div>
+    <div class="alt-route__stats">
+      <span>36 km</span><span>~1880 hm</span>
+    </div>
+    <p>Vert brukt når elva i skaret er for stor til å passere trygt. Løypa følgjer alternativ sti på sørsida nedafor ryggen til Lisjehesten, tur-retur Lisjehesten på ned-stien, og tur-retur Storehesten via vestsida (utan Egga).</p>
+    <a href="gpx/Storerunda_alternativ_3.gpx" download class="alt-route__gpx">⬇ Last ned GPX — Storerunda alternativ 3</a>
+  </div>
+
+  <div class="alt-route">
+    <div class="alt-route__header">
+      <span class="alt-route__badge">Alternativ 4</span>
+      <span class="alt-route__tag alt-route__tag--water">Mykje vatn — utan skaret, normal Egga</span>
+    </div>
+    <div class="alt-route__stats">
+      <span>32,5 km</span><span>~1530 hm</span>
+    </div>
+    <p>Same omlegging som alternativ 3 for Lisjehesten (utan skaret), men Storehesten blir gått opp Egga som normalt.</p>
+    <a href="gpx/Storerunda_alternativ_4.gpx" download class="alt-route__gpx">⬇ Last ned GPX — Storerunda alternativ 4</a>
+  </div>
+
+</div>
+```
+
+### Lisjerunda
+
+```{=html}
+<div class="alt-routes">
+
+  <div class="alt-route">
+    <div class="alt-route__header">
+      <span class="alt-route__badge">Alternativ 1</span>
+      <span class="alt-route__tag alt-route__tag--normal">Normal løype</span>
+    </div>
+    <div class="alt-route__stats">
+      <span>26 km</span><span>~1200 hm</span>
+    </div>
+    <p>Ordinær løype over Lisjehesten — opp skaret med tau, ned mot Kvamsstølen via Skaraly.</p>
+    <a href="gpx/Lisjerunda_alternativ_1.gpx" download class="alt-route__gpx">⬇ Last ned GPX — Lisjerunda alternativ 1</a>
+  </div>
+
+  <div class="alt-route">
+    <div class="alt-route__header">
+      <span class="alt-route__badge">Alternativ 2</span>
+      <span class="alt-route__tag alt-route__tag--water">Mykje vatn — utan skaret</span>
+    </div>
+    <div class="alt-route__stats">
+      <span>28 km</span><span>~1270 hm</span>
+    </div>
+    <p>Vert brukt når elva i skaret er for stor. Løypa følgjer alternativ sti på sørsida nedafor ryggen til Lisjehesten og går tur-retur på stien ein normalt spring ned. Ca. 2 km lenger enn normalt.</p>
+    <a href="gpx/Lisjerunda_alternativ_2.gpx" download class="alt-route__gpx">⬇ Last ned GPX — Lisjerunda alternativ 2</a>
+  </div>
+
+</div>
+```
+
+## Slik ser løypa ut
+
+Følg løypa steg for steg — frå start på Langeland, opp over begge toppane og tilbake.
+
+```{=html}
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_00_rulleski.jpg" alt="Rulleskiløypa med Storehesten og Lisjehesten">
+  <figcaption class="loype-caption"><span class="loype-step">1</span> Frå startstreken ved Langeland — Storehesten og Lisjehesten ruvar i bakgrunnen.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_01_postveg.jpg" alt="Postvegen mot Bringeland">
+  <figcaption class="loype-caption"><span class="loype-step">2</span> På veg mot flyplassen, med Lisjehesten og Storehesten i bakgrunnen.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_02_hjelmeland_yndestad.jpg" alt="Mellom Hjelmelandsstølen og Yndestadsstølen">
+  <figcaption class="loype-caption"><span class="loype-step">3</span> På veg mellom Hjelmelandsstølen og Yndestadsstølen.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_03_yndestadstolen.jpg" alt="Yndestadsstølen">
+  <figcaption class="loype-caption"><span class="loype-step">4</span> På Yndestadsstølen.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_04_tau_lisjehesten.jpg" alt="Tau-passasje opp til Lisjehesten">
+  <figcaption class="loype-caption"><span class="loype-step">5</span> Skaret opp til Lisjehesten — eit krevjande parti kor ein må vise hensyn til kvarandre i tau.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_05_ned_fra_lisjehesten.jpg" alt="På veg ned frå Lisjehesten">
+  <figcaption class="loype-caption"><span class="loype-step">6</span> På veg ned frå toppen av Lisjehesten.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_06_egga_storehesten.jpg" alt="Egga opp til Storehesten">
+  <figcaption class="loype-caption"><span class="loype-step">7</span> Den vanskeligste delen av den bratte Egga opp til Storehesten.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_07_topp_panorama.jpg" alt="Panorama frå toppen av Storehesten">
+  <figcaption class="loype-caption"><span class="loype-step">8</span> Panoramautsikt frå toppen av Storehesten over nordaust.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_08_ura_storehesten.jpg" alt="Ura og nedstigning frå Storehesten">
+  <figcaption class="loype-caption"><span class="loype-step">9</span> Ura og nedstigninga frå Storehesten.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_09_baksida_skaraly.jpg" alt="Ned mot baksida av Storehesten og Skaraly">
+  <figcaption class="loype-caption"><span class="loype-step">10</span> Ned mot baksida av Storehesten og tilbake til Skaraly på god sti.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_10_ned_kvamsstolen.jpg" alt="Ned mot Kvamsstølen">
+  <figcaption class="loype-caption"><span class="loype-step">11</span> Ned mot Kvamsstølen.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_11_tilbake_yndestad.jpg" alt="Mellom Kvamsstølen og Yndestadsstølen">
+  <figcaption class="loype-caption"><span class="loype-step">12</span> Mellom Kvamsstølen og Yndestadsstølen — på veg tilbake.</figcaption>
+</figure>
+```
+
+
+
+```{=html}
+<div class="sponsorband">
+  <h2 class="sponsorband__title">Våre sponsorar</h2>
+
+  <div class="sponsorband__main">
+    <a href="https://www.fjordanecaravan.no/" target="_blank" rel="noopener" class="sponsor-card sponsor-card--main">
+      <img src="images/sponsorar/fjordane_caravan.png" alt="Fjordane Caravan">
+    </a>
+    
+    <a href="https://www.lettsauna.no/" target="_blank" rel="noopener" class="sponsor-card sponsor-card--main">
+      <img src="images/sponsorar/lettsauna.png" alt="LettSauna">
+    </a>
+  </div>
+
+  <div class="sponsorband__rest">
+    <a href="https://www.sparebank1.no/nn/sogn-fjordane/privat.html" target="_blank" rel="noopener" class="sponsor-card">
+      <img src="images/sponsorar/sparebank1.png" alt="SpareBank 1 Sogn og Fjordane">
+    </a>
+    <a href="#" target="_blank" rel="noopener" class="sponsor-card">
+      <img src="images/sponsorar/tonna.png" alt="Tønna">
+    </a>
+    <a href="https://www.fylkesadvokat.no/" target="_blank" rel="noopener" class="sponsor-card">
+      <img src="images/sponsorar/blikra_advokat.png" alt="Blikra, Slotterøy og Fonn Advokatfirma">
+    </a>
+    <a href="https://www.stravent.no/" target="_blank" rel="noopener" class="sponsor-card">
+      <img src="images/sponsorar/stranda_vent.png" alt="Stranda Ventilasjon">
+    </a>
+    <a href="https://rkontor.no/" target="_blank" rel="noopener" class="sponsor-card">
+      <img src="images/sponsorar/fjordane_rekneskap.png" alt="Rekneskap Fjordane">
+    </a>
+  </div>
+</div>
+```

@@ -1,0 +1,101 @@
+## Slik ser løypa ut
+
+Følg løypa steg for steg — frå start på Langeland, opp over begge toppane og tilbake.
+
+```{=html}
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_00_rulleski.jpg" alt="Rulleskiløypa med Storehesten og Lisjehesten">
+  <figcaption class="loype-caption"><span class="loype-step">1</span> Frå startstreken ved Langeland — Storehesten og Lisjehesten ruvar i bakgrunnen.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_01_postveg.jpg" alt="Postvegen mot Bringeland">
+  <figcaption class="loype-caption"><span class="loype-step">2</span> På veg mot flyplassen, med Lisjehesten og Storehesten i bakgrunnen.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_02_hjelmeland_yndestad.jpg" alt="Mellom Hjelmelandsstølen og Yndestadsstølen">
+  <figcaption class="loype-caption"><span class="loype-step">3</span> På veg mellom Hjelmelandsstølen og Yndestadsstølen.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_03_yndestadstolen.jpg" alt="Yndestadsstølen">
+  <figcaption class="loype-caption"><span class="loype-step">4</span> På Yndestadsstølen.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_04_tau_lisjehesten.jpg" alt="Tau-passasje opp til Lisjehesten">
+  <figcaption class="loype-caption"><span class="loype-step">5</span> Skaret opp til Lisjehesten — eit krevjande parti kor ein må vise hensyn til kvarandre i tau.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_05_ned_fra_lisjehesten.jpg" alt="På veg ned frå Lisjehesten">
+  <figcaption class="loype-caption"><span class="loype-step">6</span> På veg ned frå toppen av Lisjehesten.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_06_egga_storehesten.jpg" alt="Egga opp til Storehesten">
+  <figcaption class="loype-caption"><span class="loype-step">7</span> Den vanskeligste delen av den bratte Egga opp til Storehesten.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_07_topp_panorama.jpg" alt="Panorama frå toppen av Storehesten">
+  <figcaption class="loype-caption"><span class="loype-step">8</span> Panoramautsikt frå toppen av Storehesten over nordaust.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_08_ura_storehesten.jpg" alt="Ura og nedstigning frå Storehesten">
+  <figcaption class="loype-caption"><span class="loype-step">9</span> Ura og nedstigninga frå Storehesten.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_09_baksida_skaraly.jpg" alt="Ned mot baksida av Storehesten og Skaraly">
+  <figcaption class="loype-caption"><span class="loype-step">10</span> Ned mot baksida av Storehesten og tilbake til Skaraly på god sti.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_10_ned_kvamsstolen.jpg" alt="Ned mot Kvamsstølen">
+  <figcaption class="loype-caption"><span class="loype-step">11</span> Ned mot Kvamsstølen.</figcaption>
+</figure>
+
+<figure class="loype-fig">
+  <img class="loype-img" src="images/loype_11_tilbake_yndestad.jpg" alt="Mellom Kvamsstølen og Yndestadsstølen">
+  <figcaption class="loype-caption"><span class="loype-step">12</span> Mellom Kvamsstølen og Yndestadsstølen — på veg tilbake.</figcaption>
+</figure>
+```
+
+
+
+```{=html}
+<div class="sponsorband">
+  <h2 class="sponsorband__title">Våre sponsorar</h2>
+
+  <div class="sponsorband__main">
+    <a href="https://www.fjordanecaravan.no/" target="_blank" rel="noopener" class="sponsor-card sponsor-card--main">
+      <img src="images/sponsorar/fjordane_caravan.png" alt="Fjordane Caravan">
+    </a>
+    
+    <a href="https://www.lettsauna.no/" target="_blank" rel="noopener" class="sponsor-card sponsor-card--main">
+      <img src="images/sponsorar/lettsauna.png" alt="LettSauna">
+    </a>
+  </div>
+
+  <div class="sponsorband__rest">
+    <a href="https://www.sparebank1.no/nn/sogn-fjordane/privat.html" target="_blank" rel="noopener" class="sponsor-card">
+      <img src="images/sponsorar/sparebank1.png" alt="SpareBank 1 Sogn og Fjordane">
+    </a>
+    <a href="#" target="_blank" rel="noopener" class="sponsor-card">
+      <img src="images/sponsorar/tonna.png" alt="Tønna">
+    </a>
+    <a href="https://www.fylkesadvokat.no/" target="_blank" rel="noopener" class="sponsor-card">
+      <img src="images/sponsorar/blikra_advokat.png" alt="Blikra, Slotterøy og Fonn Advokatfirma">
+    </a>
+    <a href="https://www.stravent.no/" target="_blank" rel="noopener" class="sponsor-card">
+      <img src="images/sponsorar/stranda_vent.png" alt="Stranda Ventilasjon">
+    </a>
+    <a href="https://rkontor.no/" target="_blank" rel="noopener" class="sponsor-card">
+      <img src="images/sponsorar/fjordane_rekneskap.png" alt="Rekneskap Fjordane">
+    </a>
+  </div>
+</div>
+```
