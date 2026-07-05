@@ -49,25 +49,25 @@ Løypa startar og går i mål ved **Langeland skisenter**.
 4. Langs ryggen mot Skaraly. 
 5. Frå Skaraly: *(Lisjerunda vender her tilbake og ned mot Kvamsstølen.)* den mest krevjande stigninga opp egga på austsida av **Storehesten**. Svært bratt stigning der ein ikkje må gå for langt mot venstre.
 6. På toppen: panoramautsikt med havet i vest og Jostedalsbreen i aust.
-7. Nedstigning i ura på vestsida, vidare langs T-merka sti tilbake til Skaraly og mot stølane.
-8. Siste etappe i skiløypa gjennom myr og traktorvegterreng, før ein returnerar til djupedalen og spring samme veg tilbake som starten.
+7. Nedstigning i ura på vestsida, vidare langs T-merka sti tilbake til Skaraly mot Kvamsstølen og tilbake til Yndestadstølen.
+8. Siste etappe går samme veg tilbak frå Yndestadstølen via Hjelmelandsstølen og Djupedalen til Langeland.
 9. Målgang på oppløpet på stadion.
 
 
 
 
-## Drikkestasjonar og vassfylling
+## Vassfylling
 
-Det er drikkestasjonar undervegs, men det er òg gode moglegheiter til å fylle på med naturleg vatn enkelte stader i løypa. Oversikta under viser kor du finn dei — bruk ho til å planlegge eige vassforbruk.
+Det er stasjonar for påfyll av drikke undervegs, men det er òg gode alternativer til å fylle på med naturleg vatn enkelte stader i løypa. Oversikta under viser kor du finn dei.
 
 | Distanse | Stad | Merknad |
 |---|---|---|
-| **~6 km** | Hjelmelandsstølen | Første drikkestasjon. Sjølv om du ikkje er tom, er det lurt å fylle opp her — det er lite naturleg vatn å fylle frå før Lisjehesten. |
+| **~6 km** | Hjelmelandsstølen | Første stasjon for påfyll. Sjølv om du ikkje er tom, er det lurt å fylle opp her — det er lite drikkevatn vatn å fylle før Lisjehesten. |
 | **~11,5 km** | Lisjehesten | Naturleg vatn ved toppen. |
 | **~15 km** | Skaraly | Stasjon der det er venta at **alle bør fylle drikke**. Her vender Lisjerunda tilbake og ned mot Kvamsstølen, mens Storerunda fortset over Storehesten — ei lengre runde utan naturleg vatn før Grunnevatnet. |
 | **~20 km** *(kun Storerunda)* | Grunnevatnet | Naturleg vatn, like før du kjem tilbake til Skaraly. |
 | **~21 km** *(kun Storerunda)* | Skaraly | Ny påfyllsmoglegheit på veg tilbake. |
-| **~27 km** | Hjelmelandsstølen | Siste drikkestasjon før mål. |
+| **~27 km** | Hjelmelandsstølen | Siste stasjon for påfyll før mål. |
 
 : {.striped tbl-colwidths="[15,25,60]"}
 
@@ -127,12 +127,12 @@ Me tilrår at du lastar ned GPX-filene for alle alternativa på førehand og leg
   <div class="alt-route">
     <div class="alt-route__header">
       <span class="alt-route__badge">Alternativ 2</span>
-      <span class="alt-route__tag alt-route__tag--weather">Dårleg vær — Egga</span>
+      <span class="alt-route__tag alt-route__tag--weather">Utfordrande vær — Utan Egga</span>
     </div>
     <div class="alt-route__stats">
       <span>34 km</span><span>~1820 hm</span>
     </div>
-    <p>Vert brukt ved dårleg vær og glatt i Egga. Løypa går tur-retur Storehesten på stien ein normalt spring ned (vestsida). Merk: ved svært dårleg sikt kan løypevakt gi beskjed om at ein snur før toppen av Storehesten.</p>
+    <p>Vert brukt ved utfordrande vær og glatt i Egga. Løypa går tur-retur Storehesten på stien ein normalt spring ned (vestsida). Merk: ved svært dårleg sikt kan løypevakt gi beskjed om at ein snur før toppen av Storehesten.</p>
     <a href="gpx/Storerunda_alternativ_2.gpx" download class="alt-route__gpx">⬇ Last ned GPX — Storerunda alternativ 2</a>
     <div id="map_s2" class="gpx-map"></div>
 <script>
@@ -167,7 +167,7 @@ Me tilrår at du lastar ned GPX-filene for alle alternativa på førehand og leg
     <div class="alt-route__stats">
       <span>36 km</span><span>~1880 hm</span>
     </div>
-    <p>Vert brukt når elva i skaret er for stor til å passere trygt. Løypa følgjer alternativ sti på sørsida nedafor ryggen til Lisjehesten, tur-retur Lisjehesten på ned-stien, og tur-retur Storehesten via vestsida (utan Egga).</p>
+    <p>Vert brukt når elva i skaret er for stor til å passere trygt, og Egga er glatt. Løypa følgjer alternativ sti på sørsida nedafor ryggen til Lisjehesten, tur-retur Lisjehesten på ned-stien, og tur-retur Storehesten via vestsida (utan Egga).</p>
     <a href="gpx/Storerunda_alternativ_3.gpx" download class="alt-route__gpx">⬇ Last ned GPX — Storerunda alternativ 3</a>
     <div id="map_s3" class="gpx-map"></div>
 <script>
@@ -197,12 +197,12 @@ Me tilrår at du lastar ned GPX-filene for alle alternativa på førehand og leg
   <div class="alt-route">
     <div class="alt-route__header">
       <span class="alt-route__badge">Alternativ 4</span>
-      <span class="alt-route__tag alt-route__tag--water">Mykje vatn — utan skaret, normal Egga</span>
+      <span class="alt-route__tag alt-route__tag--water">Svært krevjande forhold — utan skaret og Egga</span>
     </div>
     <div class="alt-route__stats">
       <span>32,5 km</span><span>~1530 hm</span>
     </div>
-    <p>Same omlegging som alternativ 3 for Lisjehesten (utan skaret), men Storehesten blir gått opp Egga som normalt.</p>
+    <p>Same omlegging som alternativ 3 for Lisjehesten (utan skaret), og utan Storehesten ved å snu på Vardehaugane.</p>
     <a href="gpx/Storerunda_alternativ_4.gpx" download class="alt-route__gpx">⬇ Last ned GPX — Storerunda alternativ 4</a>
     <div id="map_s4" class="gpx-map"></div>
 <script>
