@@ -75,7 +75,7 @@ Velkomen til aller første utgåva av **Hestane Skyrace**! Her får du springe o
 - 🏔️ **Storerunda 32 km** (~1800 hm) eller **Lisjerunda 26 km** (~1200 hm)
 - 🎒 Hugs **obligatorisk utstyr** — mobil, 1 L drikke, nødrasjon, vindjakke ([sjå lista](utstyr.qmd))
 - ⚠️ **Cutoff Skaraly kl. 15:30**, siste målgang kl. 19:00
-- 🅿️ Parkering på Langeland - 50kr  for dagen
+- 🅿️ Parkering på Langeland — kr 90 for dagen
 - 🍖 Mat i mål 12:30–17:00, **afterrun på Tønna kl. 20:00**
 - 📞 Arrangør: Lars **948 27 438** / Torstein **416 53 315**
 :::
@@ -100,6 +100,23 @@ Vi som arrangerer er to lokale sunnfjordingar frå Bygstad — **Lars Øvrebø**
 ::: {.callout-note title="Klar for start?"}
 Påmelding skjer via [Racedays](https://www.racedays.run/event/hestane-skyrace-2026). Følg oss på [Instagram \@hestaneskyrace](https://instagram.com/hestaneskyrace) for siste oppdateringar om løypetrasé og praktiske detaljar.
 :::
+
+## 📸 Bilete frå løpet
+
+```{=html}
+<div class="photo-cta">
+  <div class="photo-cta__inner">
+    <div class="photo-cta__icon">📷</div>
+    <div class="photo-cta__text">
+      <h3>Alle bileta frå Hestane Skyrace 2026 ligg her</h3>
+      <p>Last ned, del og bruk fritt — vi håpar de likte dagen like godt som vi gjorde!</p>
+    </div>
+    <a href="https://drive.google.com/drive/folders/1RJYAB32v9MWjwIa660ivyHKvt1l5ksig?usp=drive_link" target="_blank" rel="noopener" class="photo-cta__btn">
+      Sjå alle bileta →
+    </a>
+  </div>
+</div>
+```
 
 ```{=html}
 <div class="sponsorband">
